@@ -1,6 +1,6 @@
 # Hi there, I'm Animesh Anand 👋
 
-🎓 **B.Tech in CSE (AI & ML)** | VIT Bhopal | CGPA: 8.34  
+🎓 **B.Tech in CSE (AI & ML)** | VIT Bhopal | CGPA: 8.24  
 💻 **Aspiring AI/ML Engineer** | Full-Stack Developer | Open Source Contributor  
 📬 [animeshanand2022@vitbhopal.ac.in](mailto:animeshanand2022@vitbhopal.ac.in) | 📞 +91 7050444911
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a final-year B.Tech student specializing in Artificial Intelligence and Machine Learning with a solid foundation in Data Structures, Algorithms, and Full-Stack Web Development. I'm passionate about building scalable AI solutions and contributing to impactful tech projects.
+I'm a final-year B.Tech student specialising in Artificial Intelligence and Machine Learning with a solid foundation in Data Structures, Algorithms, and Full-Stack Web Development. I'm passionate about building scalable AI solutions and contributing to impactful tech projects.
 
 - 🔭 Currently exploring LLMs, NLP, and Computer Vision
 - 💡 Experienced with MERN stack and AI frameworks like TensorFlow and PyTorch
