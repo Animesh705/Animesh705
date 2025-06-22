@@ -19,7 +19,7 @@ Soft Skills: Communication, Problem-Solving, Teamwork, Adaptability
 # Education
 
 B.Tech in CSE (AI & ML), Vellore Institute of Technology, Bhopal
-June 2022 – Present | CGPA: 8.34/10
+June 2022 – Present | CGPA: 8.24/10
 Class XII – S.K.M. Public School | May 2021 | 65.2%
 Class X – St. Teresa’s School | May 2019 | 86%
 
