@@ -2,7 +2,7 @@
 
 🎓 **B.Tech in CSE (AI & ML)** | VIT | CGPA: 8.29  
 💻 **Aspiring AI/ML Engineer** | Full-Stack Developer | Open Source Contributor  
-📬 [animeshanand2022@vitbhopal.ac.in](mailto:animeshanand2022@vitbhopal.ac.in) | 📞 +91 7050444911
+📬 [animeshanand705@gmail.com](mailto:animeshanand705@gmail.com) | [animeshanand2022@vitbhopal.ac.in](mailto:animeshanand2022@vitbhopal.ac.in) | 📞 +91 7050444911
 
 ---
 
