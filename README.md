@@ -20,13 +20,13 @@ I'm a final-year B.Tech student specialising in Artificial Intelligence and Mach
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` > `JavaScript` >  `HTML` `CSS` `C++`  `Python` 
+`Java` > `JavaScript` `HTML` `CSS` > `C++` > `Python` 
 
 **Frameworks & Tools:**  
-`TensorFlow` `PyTorch` `OpenCV` `LangChain` `Bootstrap` `GitHub` `VS Code`
+`Spring-Boot` `TensorFlow` `PyTorch` `OpenCV` `LangChain` `Bootstrap` `GitHub` `VS Code` 
 
 **Web & Backend:**  
-`MERN Stack` `MongoDB` `MySQL` `Whisper` `Wav2Vec`
+`Java Full Stack` `MongoDB` `MySQL` `Whisper` `Wav2Vec`
 
 **Domains:**  
 `Machine Learning` `Natural Language Processing` `Computer Vision` `Speech-to-Text`  
