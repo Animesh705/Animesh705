@@ -20,7 +20,7 @@ I'm a final-year B.Tech student specialising in Artificial Intelligence and Mach
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`C++` `Java` `Python` `JavaScript` `HTML` `CSS`
+`Java` > `JavaScript` >  `HTML` `CSS` `C++`  `Python` 
 
 **Frameworks & Tools:**  
 `TensorFlow` `PyTorch` `OpenCV` `LangChain` `Bootstrap` `GitHub` `VS Code`
