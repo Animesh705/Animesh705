@@ -1,6 +1,6 @@
 # Hi there, I'm Animesh Anand 👋
 
-🎓 **B.Tech in CSE (AI & ML)** | VIT | CGPA: 8.29  
+🎓 **B.Tech in CSE (AI & ML)** | VIT | CGPA: 8.32  
 💻 **Aspiring AI/ML Engineer** | Full-Stack Developer | Open Source Contributor  
 📬 [animeshanand705@gmail.com](mailto:animeshanand705@gmail.com) | 📞 +91 7050444911
 
