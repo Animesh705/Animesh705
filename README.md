@@ -63,7 +63,7 @@ I'm a final-year B.Tech student specialising in Artificial Intelligence and Mach
 
 ## 📫 Let's Connect!
 
-[LinkedIn](https://www.linkedin.com/in/animesh-anand-aa5b02294) | [GitHub](https://github.com/Animesh705)
+[LinkedIn](https://www.linkedin.com/in/animesh-anand-aa5b02294) | [LeetCode]((https://leetcode.com/u/Animesh705/))
 
 ---
 
