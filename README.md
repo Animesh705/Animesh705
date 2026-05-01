@@ -33,7 +33,40 @@ I'm a final-year B.Tech student specialising in Artificial Intelligence and Mach
 
 ---
 
-## 💼 Projects
+### 💼 Projects
+
+## 🚀 Featured Project: VIT EduConnect Platform
+
+A full-stack **e-learning management platform** inspired by modern learning systems such as Coursera and Udemy, built to simulate real-world product architecture with separate workflows for **Students, Teachers, and Admins**.
+
+### Highlights
+
+- Multi-role access system (Student / Teacher / Admin)
+- Course creation, publishing, and enrollment workflows
+- OTP-based instructor authentication via email
+- Progress tracking and learning dashboards
+- Internship and assessment management modules
+- Admin moderation and analytics panels
+- Spring Boot MVC architecture with Thymeleaf SSR
+- MySQL relational schema with JPA / Hibernate
+
+### Engineering Focus
+
+Designed with emphasis on:
+
+- scalable backend structure  
+- relational data modeling  
+- optimized repository queries  
+- maintainable service-layer architecture  
+- production-style debugging and configuration management
+
+### Tech Stack
+
+`Java` `Spring Boot` `Spring MVC` `Thymeleaf` `MySQL` `Hibernate` `JPA` `Maven`
+
+### Repository
+
+🔗 [VIT EduConnect Platform](https://github.com/Animesh705/vit-educonnect-platform)
 
 **🔹 VITFiesta – AI-powered Event Booking Platform**  
 *Full Stack & AI Developer* | JS, Python, Bootstrap  
