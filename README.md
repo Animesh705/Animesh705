@@ -39,13 +39,21 @@ Production-style full-stack **e-learning management platform** inspired by Cours
 
 ---
 
-### 🔹 VITFiesta
-Smart event booking platform with recommendation workflows and modern UI experience.
+### 🔹 AimInterview || Java, Spring Boot, React.js, TypeScript, MySQL, OpenAI API, JWT, Tailwind CSS
+Full-Stack AI Mock Interview Platform
 
 **Highlights**
-- Event discovery and booking flows
-- Recommendation engine concepts
-- Full-stack implementation
+- Full-Stack AI Mock Interview Platform
+-Developed a full-stack AI-powered mock interview platform that generates role-specific interview questions and provides
+real-time AI-driven feedback using the OpenAI API.
+-Built secure backend services with Spring Boot and JWT authentication for interview session management and user data
+handling.
+-Designed responsive frontend interfaces using React, TypeScript, and Tailwind CSS for seamless interview interaction and
+performance tracking.
+-Structured MySQL database schemas to manage interview history, user progress, and feedback analytics with efficient data
+retrieval.
+
+🔗 **Repository:** https://github.com/Animesh705/AimInterview
 
 ---
 
